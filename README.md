@@ -21,7 +21,6 @@ I build open-source AI products at the intersection of **AI · Quant · Crypto �
 
 - [**nof0**](https://github.com/wquguru/nof0) &nbsp;**★ 2.7k**&nbsp; — 开源的 AI 交易竞技场 · open-source AI trading arena. A full open reproduction of NOF1 Alpha Arena, bringing LLM & agentic trading to everyone. `Go` `Next.js` `Hyperliquid`
 - [**12factor**](https://github.com/wquguru/12factor) &nbsp;**★ 33**&nbsp; — *12 Vibe Coding Factors*: a four-stage / twelve-principle method for 10× AI-collaboration efficiency → [12factor.me](https://12factor.me)
-- [**exoshell**](https://github.com/wquguru/exoshell) &nbsp;**★ 38**&nbsp; 🦞🐚 — curated Claude Code plugins & AI-assisted development skills
 - [**skills**](https://github.com/wquguru/skills) &nbsp;**★ 49**&nbsp; — practical Claude Code skills: English-for-engineers coaching, Pi Agent setup, and more
 - [**llm-council**](https://github.com/wquguru/llm-council) &nbsp;**★ 113**&nbsp; — a council of LLMs that deliberate, cross-review & rank to answer your hardest questions
 
