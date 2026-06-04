@@ -1,9 +1,9 @@
 <div align="center">
 
-𝕏 <a href="https://x.com/wquguru">@wquguru</a> &nbsp;·&nbsp;
-<a href="https://wqu.guru">Blog</a> &nbsp;·&nbsp;
-<a href="https://t.me/nof0_ai">Telegram</a> &nbsp;·&nbsp;
-<a href="https://wquguru.gitbook.io/nof0">nof0 Docs</a>
+𝕏 <a href="https://x.com/wquguru">Follow on X</a> &nbsp;·&nbsp;
+📮 <a href="https://wqu.guru">Blog</a> &nbsp;·&nbsp;
+💬 <a href="https://t.me/nof0_ai">Telegram</a> &nbsp;·&nbsp;
+📖 <a href="https://wquguru.gitbook.io/nof0">nof0 Docs</a>
 
 </div>
 
@@ -33,7 +33,7 @@ Two books on harness engineering — once a code-writing model lives in terminal
 
 [📖 Read online](https://harness-books.agentway.dev/en/) &nbsp;·&nbsp; 中文 / English
 
-## 🛠 Stack
+## ✍️ I build & write about
 
 `Harness engineering` &nbsp;·&nbsp; `Agent / multi-agent design` &nbsp;·&nbsp; `AI-assisted dev (vibe coding)` &nbsp;·&nbsp; `Quant × Crypto × AI`
 
