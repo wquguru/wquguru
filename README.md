@@ -1,40 +1,57 @@
-<div align="center">
+<p align="center"><samp>
+<a href="https://x.com/wquguru">x.com</a> .
+<a href="https://wqu.guru">blog</a> .
+<a href="https://wqu.guru/newshub?sort=live&amp;source=WquGuru&amp;topic=ai">field notes</a> .
+<a href="https://harness-books.agentway.dev/en/">books</a> .
+<a href="https://github.com/wquguru/nof0">nof0</a> .
+<a href="https://t.me/nof0_ai">telegram</a>
+</samp></p>
 
-𝕏 <a href="https://x.com/wquguru">Follow on X</a> &nbsp;·&nbsp;
-📮 <a href="https://wqu.guru">Blog</a> &nbsp;·&nbsp;
-💬 <a href="https://t.me/nof0_ai">Telegram</a> &nbsp;·&nbsp;
-📖 <a href="https://wquguru.gitbook.io/nof0">nof0 Docs</a>
+<pre>
+WQUGURU(1)                      Harness Engineering                      WQUGURU(1)
 
-</div>
+<b>NAME</b>
+       wquguru - harness engineering for code-writing agents
 
-<br/>
+<b>SYNOPSIS</b>
+       wquguru [--measure] [--publish] experiment ...
 
-### Hi, I'm WquGuru 👋
+<b>DESCRIPTION</b>
+       Studies what keeps a code-writing model bounded, continuous and
+       accountable once it runs inside real terminals, repos and teams:
+       constraints, query loops, context governance, multi-agent review.
 
-I build open-source AI products at the intersection of **AI · Quant · Crypto · Engineering**, and I write about **harness engineering** — how to keep code-writing models bounded, continuous, and accountable once they live inside real terminals, repos, and teams.
+       Every claim ships with a number. Experiments run first, then get
+       published on X (24k followers) and in the field notes.
 
-做开源 AI 产品，也写 **AI 工程方法论**：当会写代码的模型进入真实的终端、仓库与团队，如何让整个系统始终可控、可持续、为后果负责。
+<b>OPTIONS</b>
+       --measure    run it locally; record setup, baseline and result
+       --publish    post the numbers with sources; reviews are marked
 
-[![Follow @wquguru on GitHub](https://img.shields.io/github/followers/wquguru?style=social&label=Follow)](https://github.com/wquguru)
+<b>RECENT MEASUREMENTS</b>
+       <a href="https://x.com/wquguru/status/2109605714796970004">2026-10-12</a>   Qwen-Image 2.1 · M2 Pro · MLX+Q8      30 min -> 6.8 min/img
+       <a href="https://x.com/wquguru/status/2107120284788744670">2026-10-05</a>   Opus 5.5 · 228 sub-agents             $527 vs $99 main session
+       <a href="https://x.com/wquguru/status/2106579199725281627">2026-10-04</a>   Strata 125B · 12 GB VRAM  [review]    45 tok/s, 128K ctx
+       <a href="https://x.com/wquguru/status/2103648270811902409">2026-09-26</a>   Opus 5.5 effort low -> max [review]   ~3x cost, pass rate up
 
-## Projects
+<b>PROJECTS</b>
+       <a href="https://github.com/wquguru/harness-books">harness-books</a>   two books on agent harnesses            3.2k stars
+       <a href="https://github.com/wquguru/nof0">nof0</a>            open-source AI trading arena            2.8k stars
+       <a href="https://github.com/wquguru/llm-council">llm-council</a>     LLMs review and rank each other          114 stars
+       <a href="https://github.com/wquguru/skills">skills</a>          practical Agent Skills                    94 stars
+       <a href="https://github.com/wquguru/12factor">12factor</a>        twelve factors for AI-assisted dev        35 stars
 
-- [**nof0**](https://github.com/wquguru/nof0) &nbsp;**★ 2.7k**&nbsp; — 开源的 AI 交易竞技场 · open-source AI trading arena. A full open reproduction of NOF1 Alpha Arena, bringing LLM & agentic trading to everyone. `Go` `Next.js` `Hyperliquid`
-- [**12factor**](https://github.com/wquguru/12factor) &nbsp;**★ 33**&nbsp; — *12 Vibe Coding Factors*: a four-stage / twelve-principle method for 10× AI-collaboration efficiency → [12factor.me](https://12factor.me)
-- [**skills**](https://github.com/wquguru/skills) &nbsp;**★ 49**&nbsp; — practical Claude Code skills: English-for-engineers coaching, Pi Agent setup, and more
-- [**llm-council**](https://github.com/wquguru/llm-council) &nbsp;**★ 113**&nbsp; — a council of LLMs that deliberate, cross-review & rank to answer your hardest questions
+<b>BOOKS</b>
+       <a href="https://harness-books.agentway.dev/en/book1-claude-code/">Harness Engineering: A Design Guide to Claude Code</a>
+       <a href="https://harness-books.agentway.dev/en/book2-comparing/">The Harness Design Philosophies of Claude Code and Codex</a>
 
-## Books · [harness-books](https://github.com/wquguru/harness-books) &nbsp;**★ 2.4k**
+<b>SEE ALSO</b>
+       <a href="https://x.com/wquguru">x.com/wquguru</a>, <a href="https://wqu.guru">wqu.guru</a>, <a href="https://harness-books.agentway.dev/en/">harness-books.agentway.dev</a>
 
-Two books on harness engineering — once a code-writing model lives in terminals, repos, and permission systems, what keeps the whole system bounded, continuous, and accountable for consequences?
+<b>BUGS</b>
+       Will talk about John Lennon if prompted.
 
-- [**Harness Engineering: A Design Guide to Claude Code**](https://harness-books.agentway.dev/en/book1-claude-code/)
-- [**The Harness Design Philosophies of Claude Code and Codex**](https://harness-books.agentway.dev/en/book2-comparing/)
+wquguru 2026.10                      2026-10-13                          WQUGURU(1)
+</pre>
 
-[📖 Read online](https://harness-books.agentway.dev/en/) &nbsp;·&nbsp; 中文 / English
-
-## I build & write about
-
-`Harness engineering` &nbsp;·&nbsp; `Agent / multi-agent design` &nbsp;·&nbsp; `AI-assisted dev (vibe coding)` &nbsp;·&nbsp; `Quant × Crypto × AI`
-
-<sub>🎵 PS: if you're also a fan of John Lennon, I'm sure we can be friends.</sub>
+<sub>研究会写代码的模型在真实终端与仓库里如何保持可控。先实测，再公开数字。</sub>
