@@ -53,5 +53,3 @@ WQUGURU(1)                      Harness Engineering                      WQUGURU
 
 wquguru 2026.10                      2026-10-13                          WQUGURU(1)
 </pre>
-
-<sub>研究会写代码的模型在真实终端与仓库里如何保持可控。先实测，再公开数字。</sub>
