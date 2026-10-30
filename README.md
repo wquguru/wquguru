@@ -7,6 +7,17 @@
 <a href="https://t.me/nof0_ai">telegram</a>
 </samp></p>
 
+<table>
+<tr>
+<td width="50%"><a href="https://shisei.indaloop.app/en/"><img src="https://raw.githubusercontent.com/wquguru/shisei/main/docs/screenshot.png" alt="Shisei pose gallery"></a></td>
+<td width="50%"><a href="https://tryboard.indaloop.app/"><img src="https://raw.githubusercontent.com/wquguru/tryboard/main/docs/screenshot.png" alt="TryBoard 3D ESP32 workbench"></a></td>
+</tr>
+<tr>
+<td><samp><b><a href="https://github.com/wquguru/shisei">shisei</a></b> · 280 CC0 mannequin poses × 5 angles, line art for AI image tools</samp></td>
+<td><samp><b><a href="https://github.com/wquguru/tryboard">tryboard</a></b> · run real ESP32 firmware in the browser before you buy the board</samp></td>
+</tr>
+</table>
+
 <pre>
 WQUGURU(1)                      Harness Engineering                      WQUGURU(1)
 
@@ -37,8 +48,12 @@ WQUGURU(1)                      Harness Engineering                      WQUGURU
 <b>PROJECTS</b>
        <a href="https://github.com/wquguru/harness-books">harness-books</a>   two books on agent harnesses            3.2k stars
        <a href="https://github.com/wquguru/nof0">nof0</a>            open-source AI trading arena            2.8k stars
+       <a href="https://github.com/wquguru/one-exit">one-exit</a>        pin Claude to one residential exit       169 stars
+       <a href="https://github.com/wquguru/shisei">shisei</a>          CC0 pose library for AI image tools      145 stars
+       <a href="https://github.com/wquguru/dasheng">dasheng</a>         streaming ASR read-aloud scoring         144 stars
        <a href="https://github.com/wquguru/llm-council">llm-council</a>     LLMs review and rank each other          114 stars
        <a href="https://github.com/wquguru/skills">skills</a>          practical Agent Skills                    94 stars
+       <a href="https://github.com/wquguru/tryboard">tryboard</a>        ESP32 firmware in the browser                  new
        <a href="https://github.com/wquguru/12factor">12factor</a>        twelve factors for AI-assisted dev        35 stars
 
 <b>BOOKS</b>
@@ -51,5 +66,5 @@ WQUGURU(1)                      Harness Engineering                      WQUGURU
 <b>BUGS</b>
        Will talk about John Lennon if prompted.
 
-wquguru 2026.10                      2026-10-13                          WQUGURU(1)
+wquguru 2026.10                      2026-10-30                          WQUGURU(1)
 </pre>
